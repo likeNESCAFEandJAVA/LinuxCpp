@@ -3,7 +3,7 @@
 
 #pragma comment(lib,"ws2_32.lib")
 #define  PORT 5555
-#define  IP_ADDRESS "129.204.117.99"
+#define  IP_ADDRESS "ip addr"
 
 int main(int argc, char* argv[])
 {
